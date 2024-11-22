@@ -5,6 +5,9 @@ namespace CSC440IndividualProjectNoel
         public Form1()
         {
             InitializeComponent();
+            
         }
+        
+        
     }
 }
