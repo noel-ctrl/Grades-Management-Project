@@ -1,8 +1,35 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-    <ItemGroup>
-        <Compile Update="Form1.cs">
-            <SubType>Form</SubType>
-        </Compile>
-    </ItemGroup>
+  <ItemGroup>
+    <Compile Update="addGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="addGradeMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="deleteGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="deleteGradeMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="editGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="editGradeMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="editSelectedGrade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="importGrades.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="printTranscriptForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
 </Project>
